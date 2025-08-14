@@ -1,4 +1,4 @@
-package p2630;
+package class3.p2630;
 
 import java.util.Arrays;
 import java.util.Scanner;
